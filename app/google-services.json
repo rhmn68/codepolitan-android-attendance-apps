@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760862677398",
+    "firebase_url": "https://aplikasi-absensi-online-b9f1c.firebaseio.com",
+    "project_id": "aplikasi-absensi-online-b9f1c",
+    "storage_bucket": "aplikasi-absensi-online-b9f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760862677398:android:0d6aa72a8eff86b25fe5b7",
+        "android_client_info": {
+          "package_name": "com.rahmanaulia.attendanceapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760862677398-flo9i4oehloe4stv91vegnvb80e9mb8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahmanaulia.attendanceapps",
+            "certificate_hash": "38431f8257d6d90fb9b60e30ae999ab9b7a7c38a"
+          }
+        },
+        {
+          "client_id": "760862677398-07nnl3v1ulca0kuehpms22mcr1ub3ul4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXJr8tRAY4CxJMEojHuTgUI_NlMpwWe6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760862677398-07nnl3v1ulca0kuehpms22mcr1ub3ul4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
