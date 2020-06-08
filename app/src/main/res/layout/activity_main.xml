@@ -15,12 +15,13 @@
 
     <TextView
         android:id="@+id/textViewCheckIn"
-        android:layout_width="wrap_content"
+        android:layout_width="99dp"
         android:layout_height="wrap_content"
-        android:text="Check-in"
+        android:text="Rp.300.000.000"
         android:textColor="@android:color/white"
         android:textStyle="bold"
-        android:textSize="32sp"
+        android:textSize="12sp"
+        android:fontFamily="sans-serif-medium"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="80dp"/>
 
